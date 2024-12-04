@@ -1,0 +1,8 @@
+Flask==2.3.3
+paddleocr==2.6.1.1
+//torch==1.9.1
+tensorflow==2.10.0
+Pillow==9.4.0
+opencv-python==4.5.5.64
+numpy==1.21.6
+matplotlib==3.5.1
